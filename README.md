@@ -3,9 +3,7 @@
 This is my Asteroids game for the Boot.dev Asteroids game course.
 
 
-## WSL <-> Windows configuration
-
-## Works for some; didn't work for me
+### WSL <-> Windows configuration
 
 #### On Windows
 
